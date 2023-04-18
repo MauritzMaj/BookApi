@@ -1,5 +1,4 @@
 # Book Search Engine Starter Code
-# React Portfolio
 
 
 ## table of contents
