@@ -19,10 +19,9 @@
     "apollo-link-context": "^1.0.20",
     "apollo-server-express": "^2.15.0",
     "@apollo/client": "3.5.8",
-    "bootstrap": "^4.6.0",
     "express": "^4.17.1",
-    "node": "^19.8.1",
-    "react-bootstrap": "^2.7.4"
+    "node": "^19.8.1"
+  
   },
   "engines": {
     "npm": ">=8.11.0",
